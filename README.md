@@ -11,5 +11,5 @@ Herramientas de AWS usadas:
 * CloudWatch
 * Runtime: Node v14.x
 
-## Flujo de la aplcación
+## Flujo de la aplicación
 ![](/img/diagrama-flujo.drawio.svg "Flujo")
