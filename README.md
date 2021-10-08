@@ -1,5 +1,5 @@
 # Transcodificación de Videos 
-## Demostración de un proceso de transcodificación con AWS Elastic Transcoder en Javascript (SDK AWS) para rotular videos con imagénes.
+## Ejemplo para rotular videos con AWS Elastic Transcoder
 
 Herramientas de AWS usadas:
 
